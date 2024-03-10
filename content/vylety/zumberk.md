@@ -1,5 +1,7 @@
 ---
 title: Žumberk
+featured_image: images/zumberk/featured.jpeg
+
 date: 2024-03-10T20:32:21+01:00
 draft: false
 tags:
@@ -8,7 +10,7 @@ categories:
   - výlety
 ---
 
-Začínám se opatrně dávat naše výlety. Tohle je první, ze dneška. Byl
+Začínám sem opatrně dávat naše výlety. Tohle je první, ze dneška. Byl
 jsem v Kališti montovat obrtlíky a spravovat skener a potom jsme vyrazili na jih. V Trhových Svinech jsme si dali poctivý jídlo, moravskýho vrabce a znojemskou, v hospodě Centrum na náměstí.
 
 ![Image](/images/zumberk/centrum.png)

@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/davidmarek/Desktop/d) programovani/hugo/cervenyNotes",
+	"sourceRoot": "/Users/davidmarek/Desktop/d) programovani/hugo/cerveny-notes",
 	"sources": [
 		"ananke/css/main.css"
 	],

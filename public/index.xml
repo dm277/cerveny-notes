@@ -6,21 +6,42 @@
     <description>Recent content in Všechny možný věci, on červený notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Sun, 13 Aug 2023 21:32:36 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 20:32:21 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hugo Start</title>
-      <link>//localhost:1313/posts/hugo-start/</link>
-      <pubDate>Sun, 13 Aug 2023 21:32:36 +0200</pubDate>
-      <guid>//localhost:1313/posts/hugo-start/</guid>
-      <description>Create a site Run these commands to create a Hugo site with the Ananke theme. The next section provides an explanation of each command.</description>
+      <title>Žumberk</title>
+      <link>//localhost:1313/vylety/zumberk/</link>
+      <pubDate>Sun, 10 Mar 2024 20:32:21 +0100</pubDate>
+      <guid>//localhost:1313/vylety/zumberk/</guid>
+      <description>Začínám se opatrně dávat naše výlety. Tohle je první, ze dneška. Byl jsem v Kališti montovat obrtlíky a spravovat skener a potom jsme vyrazili na jih.</description>
     </item>
     <item>
-      <title>Bear</title>
-      <link>//localhost:1313/posts/bear/</link>
-      <pubDate>Sun, 02 Jul 2023 21:14:38 +0200</pubDate>
-      <guid>//localhost:1313/posts/bear/</guid>
-      <description>Bear je prima Proč je dobrý ho používat, i třeba místo obsidian nebo roam. Na zettelkasten věci.&#xA;mít to na disku markdown (#bear to umožňuje) zachytávací nástroje - Bear má pluginy geniální je v Safari příprava pro blog — markdown </description>
+      <title>Beef Stroganoff</title>
+      <link>//localhost:1313/recepty/beef-stroganoff/</link>
+      <pubDate>Tue, 13 Jun 2023 11:01:45 +0200</pubDate>
+      <guid>//localhost:1313/recepty/beef-stroganoff/</guid>
+      <description>1 lb top sirloin steak&#xA;2 Tbsp olive oil&#xA;2 Tbsp butter 1/2 medium onion, finely chopped&#xA;1/2 lb brown mushrooms, thickly sliced</description>
+    </item>
+    <item>
+      <title>Kuře Na Paprice</title>
+      <link>//localhost:1313/recepty/kure-na-paprice/</link>
+      <pubDate>Sun, 11 Jun 2023 09:53:03 +0200</pubDate>
+      <guid>//localhost:1313/recepty/kure-na-paprice/</guid>
+      <description>4 plátky kuřecích prsou&#xA;45 g mleté sladké papriky&#xA;500 ml mléka&#xA;280 ml smetany ke šlehání&#xA;200 ml vývaru</description>
+    </item>
+    <item>
+      <title>Plněný papriky</title>
+      <link>//localhost:1313/recepty/plneny-papriky/</link>
+      <pubDate>Mon, 05 Jun 2023 09:06:39 +0200</pubDate>
+      <guid>//localhost:1313/recepty/plneny-papriky/</guid>
+      <description>500 g mletého masa&#xA;2 ks staršího pečiva&#xA;vejce&#xA;sůl, pepř, sladká paprika, majoránka, bobkový list, nové koření&#xA;6-8 paprik různých barev (červená, žlutá, zelená)</description>
+    </item>
+    <item>
+      <title>Bramboračka</title>
+      <link>//localhost:1313/recepty/bramboracka/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/recepty/bramboracka/</guid>
+      <description>500 g brambor (5 Kč)&#xA;125 g mrkve (1,50 Kč)&#xA;100 g celeru (1,50 Kč)&#xA;100 g petržele (6 Kč)</description>
     </item>
   </channel>
 </rss>

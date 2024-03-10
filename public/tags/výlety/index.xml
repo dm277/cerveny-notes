@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Výlety on červený notes</title>
+    <link>//localhost:1313/tags/v%C3%BDlety/</link>
+    <description>Recent content in Výlety on červený notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Sun, 10 Mar 2024 20:32:21 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/v%C3%BDlety/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Žumberk</title>
+      <link>//localhost:1313/vylety/zumberk/</link>
+      <pubDate>Sun, 10 Mar 2024 20:32:21 +0100</pubDate>
+      <guid>//localhost:1313/vylety/zumberk/</guid>
+      <description>Začínám se opatrně dávat naše výlety. Tohle je první, ze dneška. Byl jsem v Kališti montovat obrtlíky a spravovat skener a potom jsme vyrazili na jih.</description>
+    </item>
+  </channel>
+</rss>

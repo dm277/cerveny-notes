@@ -1,9 +1,9 @@
 ---
 title: Všechny možný věci,
 
-description: užitečný.
+description: pěkný, zajímavý, užitečný a co mě baví.
 featured_image: images/stul.jpg
 ---
-Jak si postavit webový stránky, něco dobrýho uvařit, o focení a fotky, wind... :), zajímavá místa, co si třeba přečíst, hra go.
+Jak si postavit webový stránky, něco dobrýho uvařit, focení, wind... :) A výlety a mapky a tak.
 
-No, je toho hodně. Tak tady je to.
+Tady je to.

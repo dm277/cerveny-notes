@@ -1,7 +1,7 @@
 ---
 title: Plněný papriky
 date: 2023-06-05T09:06:39+02:00
-draft: true
+draft: false
 featured_image: images/papriky.png
 tags:
   - recepty

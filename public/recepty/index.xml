@@ -6,7 +6,35 @@
     <description>Recent content in jídlo on červený notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 13 Jun 2023 11:01:45 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/recepty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beef Stroganoff</title>
+      <link>//localhost:1313/recepty/beef-stroganoff/</link>
+      <pubDate>Tue, 13 Jun 2023 11:01:45 +0200</pubDate>
+      <guid>//localhost:1313/recepty/beef-stroganoff/</guid>
+      <description>1 lb top sirloin steak&#xA;2 Tbsp olive oil&#xA;2 Tbsp butter 1/2 medium onion, finely chopped&#xA;1/2 lb brown mushrooms, thickly sliced</description>
+    </item>
+    <item>
+      <title>Kuře Na Paprice</title>
+      <link>//localhost:1313/recepty/kure-na-paprice/</link>
+      <pubDate>Sun, 11 Jun 2023 09:53:03 +0200</pubDate>
+      <guid>//localhost:1313/recepty/kure-na-paprice/</guid>
+      <description>4 plátky kuřecích prsou&#xA;45 g mleté sladké papriky&#xA;500 ml mléka&#xA;280 ml smetany ke šlehání&#xA;200 ml vývaru</description>
+    </item>
+    <item>
+      <title>Plněný papriky</title>
+      <link>//localhost:1313/recepty/plneny-papriky/</link>
+      <pubDate>Mon, 05 Jun 2023 09:06:39 +0200</pubDate>
+      <guid>//localhost:1313/recepty/plneny-papriky/</guid>
+      <description>500 g mletého masa&#xA;2 ks staršího pečiva&#xA;vejce&#xA;sůl, pepř, sladká paprika, majoránka, bobkový list, nové koření&#xA;6-8 paprik různých barev (červená, žlutá, zelená)</description>
+    </item>
+    <item>
+      <title>Bramboračka</title>
+      <link>//localhost:1313/recepty/bramboracka/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/recepty/bramboracka/</guid>
+      <description>500 g brambor (5 Kč)&#xA;125 g mrkve (1,50 Kč)&#xA;100 g celeru (1,50 Kč)&#xA;100 g petržele (6 Kč)</description>
+    </item>
   </channel>
 </rss>

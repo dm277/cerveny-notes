@@ -1,7 +1,7 @@
 ---
 title: Bear
 date: 2023-07-02T21:14:38+02:00
-draft: false
+draft: true
 tags:
   - software
   - webpages

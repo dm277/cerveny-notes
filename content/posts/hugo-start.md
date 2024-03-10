@@ -1,7 +1,7 @@
 ---
 title: "Hugo Start"
 date: 2023-08-13T21:32:36+02:00
-draft: false
+draft: true
 tags:
   - webpages
 categories:

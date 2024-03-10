@@ -6,20 +6,48 @@
     <description>Recent content in Tags on červený notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Sun, 13 Aug 2023 21:32:36 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 20:32:21 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Webpages</title>
-      <link>//localhost:1313/tags/webpages/</link>
-      <pubDate>Sun, 13 Aug 2023 21:32:36 +0200</pubDate>
-      <guid>//localhost:1313/tags/webpages/</guid>
+      <title>Výlety</title>
+      <link>//localhost:1313/tags/v%C3%BDlety/</link>
+      <pubDate>Sun, 10 Mar 2024 20:32:21 +0100</pubDate>
+      <guid>//localhost:1313/tags/v%C3%BDlety/</guid>
       <description></description>
     </item>
     <item>
-      <title>Software</title>
-      <link>//localhost:1313/tags/software/</link>
-      <pubDate>Sun, 02 Jul 2023 21:14:38 +0200</pubDate>
-      <guid>//localhost:1313/tags/software/</guid>
+      <title>Hovězí</title>
+      <link>//localhost:1313/tags/hov%C4%9Bz%C3%AD/</link>
+      <pubDate>Tue, 13 Jun 2023 11:01:45 +0200</pubDate>
+      <guid>//localhost:1313/tags/hov%C4%9Bz%C3%AD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recepty</title>
+      <link>//localhost:1313/tags/recepty/</link>
+      <pubDate>Tue, 13 Jun 2023 11:01:45 +0200</pubDate>
+      <guid>//localhost:1313/tags/recepty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kuře</title>
+      <link>//localhost:1313/tags/ku%C5%99e/</link>
+      <pubDate>Sun, 11 Jun 2023 09:53:03 +0200</pubDate>
+      <guid>//localhost:1313/tags/ku%C5%99e/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Papriky</title>
+      <link>//localhost:1313/tags/papriky/</link>
+      <pubDate>Mon, 05 Jun 2023 09:06:39 +0200</pubDate>
+      <guid>//localhost:1313/tags/papriky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Polévky</title>
+      <link>//localhost:1313/tags/pol%C3%A9vky/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/pol%C3%A9vky/</guid>
       <description></description>
     </item>
   </channel>

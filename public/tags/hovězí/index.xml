@@ -15,26 +15,5 @@
       <guid>//localhost:1313/recepty/beef-stroganoff/</guid>
       <description>1 lb top sirloin steak&#xA;2 Tbsp olive oil&#xA;2 Tbsp butter 1/2 medium onion, finely chopped&#xA;1/2 lb brown mushrooms, thickly sliced</description>
     </item>
-    <item>
-      <title>Gulášovka</title>
-      <link>//localhost:1313/recepty/gulasovka/</link>
-      <pubDate>Sun, 11 Jun 2023 09:27:02 +0200</pubDate>
-      <guid>//localhost:1313/recepty/gulasovka/</guid>
-      <description>500 g předního hovězího masa&#xA;100 g sádla&#xA;200 g cibule&#xA;5 stroužků česneku&#xA;1 lžíce kmínu&#xA;3 vrchovaté lžíce sladké papriky</description>
-    </item>
-    <item>
-      <title>Vídeňský guláš</title>
-      <link>//localhost:1313/recepty/vidensky-gulas/</link>
-      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/recepty/vidensky-gulas/</guid>
-      <description>Guláš považujeme za národní jídlo, ale je pouze důkazem naší historické příslušnosti k Rakousku-Uhersku. Dušené ragú z hovězího masa s paprikou vzniklo až v 17.</description>
-    </item>
-    <item>
-      <title>Guláš pro Apolenku</title>
-      <link>//localhost:1313/recepty/gulas-apolenka/</link>
-      <pubDate>Mon, 05 Jun 2023 09:06:39 +0200</pubDate>
-      <guid>//localhost:1313/recepty/gulas-apolenka/</guid>
-      <description>3/4 kila cibule&#xA;kilo hovězího&#xA;4 lžíce sádla, nebo oleje&#xA;5 lžic sladké papriky&#xA;lžička: majoránky, kmínu, tymiánu&#xA;lžíce octa</description>
-    </item>
   </channel>
 </rss>

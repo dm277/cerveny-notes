@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Čočka on červený notes</title>
+    <link>//localhost:1313/tags/%C4%8Do%C4%8Dka/</link>
+    <description>Recent content in Čočka on červený notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Sun, 11 Jun 2023 09:04:16 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/%C4%8Do%C4%8Dka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Čočkovka</title>
+      <link>//localhost:1313/recepty/cockovka/</link>
+      <pubDate>Sun, 11 Jun 2023 09:04:16 +0200</pubDate>
+      <guid>//localhost:1313/recepty/cockovka/</guid>
+      <description>1,2 l vývaru (nebo vody)&#xA;125 g červené čočky (loupané a půlené)&#xA;1 plechovka sterilovaných sekaných rajčat&#xA;100 g cibule</description>
+    </item>
+  </channel>
+</rss>

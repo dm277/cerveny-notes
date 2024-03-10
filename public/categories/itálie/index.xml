@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Itálie on červený notes</title>
+    <link>//localhost:1313/categories/it%C3%A1lie/</link>
+    <description>Recent content in Itálie on červený notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Tue, 06 Jun 2023 09:07:39 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/it%C3%A1lie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bolognese</title>
+      <link>//localhost:1313/recepty/bolognese/</link>
+      <pubDate>Tue, 06 Jun 2023 09:07:39 +0200</pubDate>
+      <guid>//localhost:1313/recepty/bolognese/</guid>
+      <description>trochu vul, ale recept supr YouTube&#xA;moje Bolognese</description>
+    </item>
+    <item>
+      <title>Boloňská moje</title>
+      <link>//localhost:1313/recepty/bolonska-moje/</link>
+      <pubDate>Tue, 06 Jun 2023 09:07:39 +0200</pubDate>
+      <guid>//localhost:1313/recepty/bolonska-moje/</guid>
+      <description>hovězí maso, 1 kilo&#xA;anglická slanina, 20 dkg&#xA;cibule&#xA;5 plátků česneku&#xA;velká plechovka loupaných rajčat&#xA;červené víno&#xA;velká mrkev a celer</description>
+    </item>
+  </channel>
+</rss>

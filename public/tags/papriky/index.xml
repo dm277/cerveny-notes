@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papriky on červený notes</title>
+    <link>//localhost:1313/tags/papriky/</link>
+    <description>Recent content in Papriky on červený notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Mon, 05 Jun 2023 09:06:39 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/papriky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plněný papriky</title>
+      <link>//localhost:1313/recepty/plneny-papriky/</link>
+      <pubDate>Mon, 05 Jun 2023 09:06:39 +0200</pubDate>
+      <guid>//localhost:1313/recepty/plneny-papriky/</guid>
+      <description>500 g mletého masa&#xA;2 ks staršího pečiva&#xA;vejce&#xA;sůl, pepř, sladká paprika, majoránka, bobkový list, nové koření&#xA;6-8 paprik různých barev (červená, žlutá, zelená)</description>
+    </item>
+  </channel>
+</rss>

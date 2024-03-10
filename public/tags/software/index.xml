@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software on červený notes</title>
+    <link>//localhost:1313/tags/software/</link>
+    <description>Recent content in Software on červený notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Sun, 02 Jul 2023 21:14:38 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bear</title>
+      <link>//localhost:1313/posts/bear/</link>
+      <pubDate>Sun, 02 Jul 2023 21:14:38 +0200</pubDate>
+      <guid>//localhost:1313/posts/bear/</guid>
+      <description>Bear je prima Proč je dobrý ho používat, i třeba místo obsidian nebo roam. Na zettelkasten věci.&#xA;mít to na disku markdown (#bear to umožňuje) zachytávací nástroje - Bear má pluginy geniální je v Safari příprava pro blog — markdown </description>
+    </item>
+  </channel>
+</rss>

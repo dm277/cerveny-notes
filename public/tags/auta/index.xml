@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Auta on červený notes</title>
+    <link>//localhost:1313/tags/auta/</link>
+    <description>Recent content in Auta on červený notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Sun, 13 Aug 2023 21:39:19 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/auta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Macan</title>
+      <link>//localhost:1313/posts/macan/</link>
+      <pubDate>Sun, 13 Aug 2023 21:39:19 +0200</pubDate>
+      <guid>//localhost:1313/posts/macan/</guid>
+      <description>Test Porsche Macan Spotřeba Při našem testování jsme autu naměřili 9,3 litru na 100 km. Ale nebáli jsme se občas pořádně šlápnout na plyn a sem tam zvolit sportovní režim.</description>
+    </item>
+    <item>
+      <title>Panamera</title>
+      <link>//localhost:1313/posts/panamera/</link>
+      <pubDate>Tue, 13 Jun 2023 11:11:22 +0200</pubDate>
+      <guid>//localhost:1313/posts/panamera/</guid>
+      <description>Porsche Panamera Porsche Panamera je osobní automobil vyšší třídy německé automobilky Porsche s motorem vpředu a pohonem zadních kol. Vůz se vyrábí od června 2009, představen veřejnosti byl v březnu 2009 na autosalonu v Ženevě.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Polévky on červený notes</title>
+    <link>//localhost:1313/tags/pol%C3%A9vky/</link>
+    <description>Recent content in Polévky on červený notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Sun, 11 Jun 2023 09:49:42 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/pol%C3%A9vky/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cibulačka</title>
+      <link>//localhost:1313/recepty/cibulacka/</link>
+      <pubDate>Sun, 11 Jun 2023 09:49:42 +0200</pubDate>
+      <guid>//localhost:1313/recepty/cibulacka/</guid>
+      <description>cibule&#xA;máslo&#xA;mouka&#xA;víno&#xA;vývar&#xA;sůl, tymián&#xA;Cibuli uděláme na másle pěkně ho tmava, hnědo červená je ok. Můžeme občas trošinku podlejt vodou, když se to přichytává.</description>
+    </item>
+    <item>
+      <title>Gulášovka</title>
+      <link>//localhost:1313/recepty/gulasovka/</link>
+      <pubDate>Sun, 11 Jun 2023 09:27:02 +0200</pubDate>
+      <guid>//localhost:1313/recepty/gulasovka/</guid>
+      <description>500 g předního hovězího masa&#xA;100 g sádla&#xA;200 g cibule&#xA;5 stroužků česneku&#xA;1 lžíce kmínu&#xA;3 vrchovaté lžíce sladké papriky</description>
+    </item>
+    <item>
+      <title>Fazolová polévka</title>
+      <link>//localhost:1313/recepty/fazolacka/</link>
+      <pubDate>Sun, 11 Jun 2023 09:22:56 +0200</pubDate>
+      <guid>//localhost:1313/recepty/fazolacka/</guid>
+      <description>fazole&#xA;cibule&#xA;slanina&#xA;Na oleji rozškvařte slaninu, přidejte cibuli, kostičky papriky a za stálého míchání opékejte asi 5 minut dorůžova.</description>
+    </item>
+    <item>
+      <title>Čočkovka</title>
+      <link>//localhost:1313/recepty/cockovka/</link>
+      <pubDate>Sun, 11 Jun 2023 09:04:16 +0200</pubDate>
+      <guid>//localhost:1313/recepty/cockovka/</guid>
+      <description>1,2 l vývaru (nebo vody)&#xA;125 g červené čočky (loupané a půlené)&#xA;1 plechovka sterilovaných sekaných rajčat&#xA;100 g cibule</description>
+    </item>
+    <item>
+      <title>Bramboračka</title>
+      <link>//localhost:1313/recepty/bramboracka/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/recepty/bramboracka/</guid>
+      <description>500 g brambor (5 Kč)&#xA;125 g mrkve (1,50 Kč)&#xA;100 g celeru (1,50 Kč)&#xA;100 g petržele (6 Kč)</description>
+    </item>
+  </channel>
+</rss>

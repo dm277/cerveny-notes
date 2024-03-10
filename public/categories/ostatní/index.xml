@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ostatní on červený notes</title>
+    <link>//localhost:1313/categories/ostatn%C3%AD/</link>
+    <description>Recent content in Ostatní on červený notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Sat, 10 Jun 2023 21:33:44 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/ostatn%C3%AD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Burger Mc Country</title>
+      <link>//localhost:1313/recepty/burger-mc-country/</link>
+      <pubDate>Sat, 10 Jun 2023 21:33:44 +0200</pubDate>
+      <guid>//localhost:1313/recepty/burger-mc-country/</guid>
+      <description>Burger&#xA;maso&#xA;šalvěj, petržel&#xA;cibule, česnek&#xA;muškátový květ&#xA;pepř a sůl&#xA;Omáčka&#xA;2 lžíce majonézy&#xA;2 lžíce kremžské&#xA;půl lžíce cukru</description>
+    </item>
+    <item>
+      <title>Stroganoff</title>
+      <link>//localhost:1313/recepty/beef-dijon-stroganoff/</link>
+      <pubDate>Tue, 06 Jun 2023 09:06:39 +0200</pubDate>
+      <guid>//localhost:1313/recepty/beef-dijon-stroganoff/</guid>
+      <description>olivový olej, 3 lžíce&#xA;3 cibule na polokolečka&#xA;větší balíček kuřecího masa na jemné nudličky&#xA;curry, kečup, dijonská hořčice</description>
+    </item>
+    <item>
+      <title>Gyros</title>
+      <link>//localhost:1313/recepty/gyros/</link>
+      <pubDate>Mon, 05 Jun 2023 16:01:25 +0200</pubDate>
+      <guid>//localhost:1313/recepty/gyros/</guid>
+      <description>cuketka link&#xA;placka paulus&#xA;dip 1 svazek zelených bylinek (pažitka, petržel, oregano aj.) Smícháme zakysanou smetanu, majonézu, oloupanou a najemno nastrouhanou okurku hadovku, trochu olivového oleje, prolisovaný česnek, sůl a pepř</description>
+    </item>
+  </channel>
+</rss>

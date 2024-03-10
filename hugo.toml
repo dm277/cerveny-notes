@@ -1,0 +1,13 @@
+baseURL = '/'
+languageCode = 'cs-cz'
+title = 'červený notes'
+theme = 'ananke'
+canonifyURLs = true
+DefaultContentLanguage = 'cs'
+SectionPagesMenu = 'main'
+MainSections = ['posts','recepty']
+Paginate = 13
+summaryLength = 20
+[params]
+  favicon = 'favicon.ico'
+  body_classes = 'avenir bg-near-white'

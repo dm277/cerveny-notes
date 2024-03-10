@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jídlo on červený notes</title>
+    <link>//localhost:1313/recepty/</link>
+    <description>Recent content in jídlo on červený notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Tue, 13 Jun 2023 11:01:45 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/recepty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beef Stroganoff</title>
+      <link>//localhost:1313/recepty/beef-stroganoff/</link>
+      <pubDate>Tue, 13 Jun 2023 11:01:45 +0200</pubDate>
+      <guid>//localhost:1313/recepty/beef-stroganoff/</guid>
+      <description>1 lb top sirloin steak&#xA;2 Tbsp olive oil&#xA;2 Tbsp butter 1/2 medium onion, finely chopped&#xA;1/2 lb brown mushrooms, thickly sliced</description>
+    </item>
+    <item>
+      <title>Kuře Na Paprice</title>
+      <link>//localhost:1313/recepty/kure-na-paprice/</link>
+      <pubDate>Sun, 11 Jun 2023 09:53:03 +0200</pubDate>
+      <guid>//localhost:1313/recepty/kure-na-paprice/</guid>
+      <description>4 plátky kuřecích prsou&#xA;45 g mleté sladké papriky&#xA;500 ml mléka&#xA;280 ml smetany ke šlehání&#xA;200 ml vývaru</description>
+    </item>
+    <item>
+      <title>Cibulačka</title>
+      <link>//localhost:1313/recepty/cibulacka/</link>
+      <pubDate>Sun, 11 Jun 2023 09:49:42 +0200</pubDate>
+      <guid>//localhost:1313/recepty/cibulacka/</guid>
+      <description>cibule&#xA;máslo&#xA;mouka&#xA;víno&#xA;vývar&#xA;sůl, tymián&#xA;Cibuli uděláme na másle pěkně ho tmava, hnědo červená je ok. Můžeme občas trošinku podlejt vodou, když se to přichytává.</description>
+    </item>
+    <item>
+      <title>Gulášovka</title>
+      <link>//localhost:1313/recepty/gulasovka/</link>
+      <pubDate>Sun, 11 Jun 2023 09:27:02 +0200</pubDate>
+      <guid>//localhost:1313/recepty/gulasovka/</guid>
+      <description>500 g předního hovězího masa&#xA;100 g sádla&#xA;200 g cibule&#xA;5 stroužků česneku&#xA;1 lžíce kmínu&#xA;3 vrchovaté lžíce sladké papriky</description>
+    </item>
+    <item>
+      <title>Fazolová polévka</title>
+      <link>//localhost:1313/recepty/fazolacka/</link>
+      <pubDate>Sun, 11 Jun 2023 09:22:56 +0200</pubDate>
+      <guid>//localhost:1313/recepty/fazolacka/</guid>
+      <description>fazole&#xA;cibule&#xA;slanina&#xA;Na oleji rozškvařte slaninu, přidejte cibuli, kostičky papriky a za stálého míchání opékejte asi 5 minut dorůžova.</description>
+    </item>
+    <item>
+      <title>Čočkovka</title>
+      <link>//localhost:1313/recepty/cockovka/</link>
+      <pubDate>Sun, 11 Jun 2023 09:04:16 +0200</pubDate>
+      <guid>//localhost:1313/recepty/cockovka/</guid>
+      <description>1,2 l vývaru (nebo vody)&#xA;125 g červené čočky (loupané a půlené)&#xA;1 plechovka sterilovaných sekaných rajčat&#xA;100 g cibule</description>
+    </item>
+    <item>
+      <title>Vídeňský guláš</title>
+      <link>//localhost:1313/recepty/vidensky-gulas/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/recepty/vidensky-gulas/</guid>
+      <description>Guláš považujeme za národní jídlo, ale je pouze důkazem naší historické příslušnosti k Rakousku-Uhersku. Dušené ragú z hovězího masa s paprikou vzniklo až v 17.</description>
+    </item>
+    <item>
+      <title>Čevapčiči</title>
+      <link>//localhost:1313/recepty/cevapcici/</link>
+      <pubDate>Sat, 10 Jun 2023 21:40:43 +0200</pubDate>
+      <guid>//localhost:1313/recepty/cevapcici/</guid>
+      <description>kilo mletého masa&#xA;dvě cibule&#xA;dvě PL papriky&#xA;4 česneky&#xA;sádlo&#xA;mouka&#xA;majoránka&#xA;Maso s cibulí promícháme, osolíme a opepříme a uděláme šištičky, které potom obalíme v mouce a opékáme na sádle.</description>
+    </item>
+    <item>
+      <title>Burger Mc Country</title>
+      <link>//localhost:1313/recepty/burger-mc-country/</link>
+      <pubDate>Sat, 10 Jun 2023 21:33:44 +0200</pubDate>
+      <guid>//localhost:1313/recepty/burger-mc-country/</guid>
+      <description>Burger&#xA;maso&#xA;šalvěj, petržel&#xA;cibule, česnek&#xA;muškátový květ&#xA;pepř a sůl&#xA;Omáčka&#xA;2 lžíce majonézy&#xA;2 lžíce kremžské&#xA;půl lžíce cukru</description>
+    </item>
+    <item>
+      <title>Griliášové pracničky</title>
+      <link>//localhost:1313/recepty/pracnicky/</link>
+      <pubDate>Wed, 07 Jun 2023 22:25:10 +0200</pubDate>
+      <guid>//localhost:1313/recepty/pracnicky/</guid>
+      <description>Formičky na pracny vymažeme máslem. Mandle rozmixujeme najemno.&#xA;V pánvi rozehřejeme cukr a za stálého míchání ho necháme rozpustit. Jakmile zezlátne a je tekutý, vsypeme k němu mandle a promícháme.</description>
+    </item>
+    <item>
+      <title>Bolognese</title>
+      <link>//localhost:1313/recepty/bolognese/</link>
+      <pubDate>Tue, 06 Jun 2023 09:07:39 +0200</pubDate>
+      <guid>//localhost:1313/recepty/bolognese/</guid>
+      <description>trochu vul, ale recept supr YouTube&#xA;moje Bolognese</description>
+    </item>
+    <item>
+      <title>Boloňská moje</title>
+      <link>//localhost:1313/recepty/bolonska-moje/</link>
+      <pubDate>Tue, 06 Jun 2023 09:07:39 +0200</pubDate>
+      <guid>//localhost:1313/recepty/bolonska-moje/</guid>
+      <description>hovězí maso, 1 kilo&#xA;anglická slanina, 20 dkg&#xA;cibule&#xA;5 plátků česneku&#xA;velká plechovka loupaných rajčat&#xA;červené víno&#xA;velká mrkev a celer</description>
+    </item>
+    <item>
+      <title>Stroganoff</title>
+      <link>//localhost:1313/recepty/beef-dijon-stroganoff/</link>
+      <pubDate>Tue, 06 Jun 2023 09:06:39 +0200</pubDate>
+      <guid>//localhost:1313/recepty/beef-dijon-stroganoff/</guid>
+      <description>olivový olej, 3 lžíce&#xA;3 cibule na polokolečka&#xA;větší balíček kuřecího masa na jemné nudličky&#xA;curry, kečup, dijonská hořčice</description>
+    </item>
+    <item>
+      <title>Gyros</title>
+      <link>//localhost:1313/recepty/gyros/</link>
+      <pubDate>Mon, 05 Jun 2023 16:01:25 +0200</pubDate>
+      <guid>//localhost:1313/recepty/gyros/</guid>
+      <description>cuketka link&#xA;placka paulus&#xA;dip 1 svazek zelených bylinek (pažitka, petržel, oregano aj.) Smícháme zakysanou smetanu, majonézu, oloupanou a najemno nastrouhanou okurku hadovku, trochu olivového oleje, prolisovaný česnek, sůl a pepř</description>
+    </item>
+    <item>
+      <title>Guláš pro Apolenku</title>
+      <link>//localhost:1313/recepty/gulas-apolenka/</link>
+      <pubDate>Mon, 05 Jun 2023 09:06:39 +0200</pubDate>
+      <guid>//localhost:1313/recepty/gulas-apolenka/</guid>
+      <description>3/4 kila cibule&#xA;kilo hovězího&#xA;4 lžíce sádla, nebo oleje&#xA;5 lžic sladké papriky&#xA;lžička: majoránky, kmínu, tymiánu&#xA;lžíce octa</description>
+    </item>
+    <item>
+      <title>Plněný papriky</title>
+      <link>//localhost:1313/recepty/plneny-papriky/</link>
+      <pubDate>Mon, 05 Jun 2023 09:06:39 +0200</pubDate>
+      <guid>//localhost:1313/recepty/plneny-papriky/</guid>
+      <description>500 g mletého masa&#xA;2 ks staršího pečiva&#xA;vejce&#xA;sůl, pepř, sladká paprika, majoránka, bobkový list, nové koření&#xA;6-8 paprik různých barev (červená, žlutá, zelená)</description>
+    </item>
+    <item>
+      <title>Bramboračka</title>
+      <link>//localhost:1313/recepty/bramboracka/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/recepty/bramboracka/</guid>
+      <description>500 g brambor (5 Kč)&#xA;125 g mrkve (1,50 Kč)&#xA;100 g celeru (1,50 Kč)&#xA;100 g petržele (6 Kč)</description>
+    </item>
+  </channel>
+</rss>

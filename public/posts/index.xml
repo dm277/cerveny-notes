@@ -6,15 +6,8 @@
     <description>Recent content in blog on červený notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Mon, 11 Mar 2024 07:55:20 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 13 Aug 2023 21:32:36 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Jak to tady je</title>
-      <link>//localhost:1313/posts/jak/</link>
-      <pubDate>Mon, 11 Mar 2024 07:55:20 +0100</pubDate>
-      <guid>//localhost:1313/posts/jak/</guid>
-      <description>Do blog budu dávat všechno, co nejsou výlety a recepty. Takže tu bude všechno ostatní, taková všehochuť. Je to proto, že chci vystačit jen se třemi menu nahoře.</description>
-    </item>
     <item>
       <title>Hugo Start</title>
       <link>//localhost:1313/posts/hugo-start/</link>
@@ -23,11 +16,18 @@
       <description>Create a site Run these commands to create a Hugo site with the Ananke theme. The next section provides an explanation of each command.</description>
     </item>
     <item>
+      <title>Ananke Theme</title>
+      <link>//localhost:1313/posts/ananke-theme/</link>
+      <pubDate>Tue, 04 Jul 2023 20:11:27 +0200</pubDate>
+      <guid>//localhost:1313/posts/ananke-theme/</guid>
+      <description>Ananke, A theme for Hugo, a framework for building websites. The intent of this theme is to provide a solid starting place for Hugo sites with basic features and include best practices for performance, accessibility, and rapid development.</description>
+    </item>
+    <item>
       <title>Go 3 - pravidla</title>
       <link>//localhost:1313/posts/hra-go3/</link>
       <pubDate>Thu, 08 Jun 2023 18:01:25 +0200</pubDate>
       <guid>//localhost:1313/posts/hra-go3/</guid>
-      <description></description>
+      <description>Konec partie Partie končí ve chvíli, kdy se hráči shodnou, že ani jeden z nich nemůže zahrát tah, kterým by něco získal.</description>
     </item>
     <item>
       <title>Go 2 - pravidla</title>

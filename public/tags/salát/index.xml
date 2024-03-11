@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Salát on červený notes</title>
+    <link>//localhost:1313/tags/sal%C3%A1t/</link>
+    <description>Recent content in Salát on červený notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Mon, 11 Mar 2024 16:43:15 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/sal%C3%A1t/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Caesar</title>
+      <link>//localhost:1313/recepty/caesar/</link>
+      <pubDate>Mon, 11 Mar 2024 16:43:15 +0100</pubDate>
+      <guid>//localhost:1313/recepty/caesar/</guid>
+      <description>Římský salát</description>
+    </item>
+  </channel>
+</rss>

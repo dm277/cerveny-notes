@@ -6,8 +6,15 @@
     <description>Recent content in Recepty on červený notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Sat, 10 Jun 2023 21:33:44 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 16:43:15 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/tags/recepty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Caesar</title>
+      <link>//localhost:1313/recepty/caesar/</link>
+      <pubDate>Mon, 11 Mar 2024 16:43:15 +0100</pubDate>
+      <guid>//localhost:1313/recepty/caesar/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Burger Mc Country</title>
       <link>//localhost:1313/recepty/burger-mc-country/</link>

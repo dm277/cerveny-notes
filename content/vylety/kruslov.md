@@ -1,5 +1,5 @@
 ---
-title: "Krušlov(Čestice)"
+title: Krušlov (Čestice)
 date: 2023-11-08T22:12:17+01:00
 draft: false
 show_reading_time: true

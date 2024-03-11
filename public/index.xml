@@ -6,8 +6,15 @@
     <description>Recent content in Všechny možný věci, on červený notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Mon, 11 Mar 2024 16:43:15 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 20:18:33 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Němčice</title>
+      <link>//localhost:1313/vylety/nemcice/</link>
+      <pubDate>Mon, 11 Mar 2024 20:18:33 +0100</pubDate>
+      <guid>//localhost:1313/vylety/nemcice/</guid>
+      <description>Jeli jsme do vesnice Střídka, kousek od Čestic. Je maličká a docela hnusná, sevřená silnice mezi kopcema. Zastavil jsem hned za ní, u velký louky do kopce kterou jsme vylezli.</description>
+    </item>
     <item>
       <title>Caesar</title>
       <link>//localhost:1313/recepty/caesar/</link>
@@ -30,7 +37,7 @@
       <description>Začínám sem opatrně dávat naše výlety. Je to pořádná práce.&#xA;Tohle je první, ze dneška. Byl jsem v Kališti montovat obrtlíky a spravovat skener a potom jsme vyrazili na jih.</description>
     </item>
     <item>
-      <title>Krušlov(Čestice)</title>
+      <title>Krušlov (Čestice)</title>
       <link>//localhost:1313/vylety/kruslov/</link>
       <pubDate>Wed, 08 Nov 2023 22:12:17 +0100</pubDate>
       <guid>//localhost:1313/vylety/kruslov/</guid>

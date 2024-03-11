@@ -11,8 +11,12 @@ categories:
   - výlety
 ---
 
-Začínám sem opatrně dávat naše výlety. Tohle je první, ze dneška. Byl
-jsem v Kališti montovat obrtlíky a spravovat skener a potom jsme vyrazili na jih. V Trhových Svinech jsme si dali poctivý jídlo, moravskýho vrabce a znojemskou, v hospodě Centrum na náměstí.
+Začínám sem opatrně dávat naše výlety. Je to pořádná práce.
+
+Tohle je první, ze dneška. Byl jsem v Kališti montovat obrtlíky a
+spravovat skener a potom jsme vyrazili na jih. V Trhových Svinech jsme
+si dali poctivý jídlo, moravskýho vrabce a znojemskou, v hospodě
+Centrum na náměstí.
 
 ![Image](/images/zumberk/centrum.png)
 

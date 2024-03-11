@@ -9,16 +9,9 @@
     <lastBuildDate>Mon, 11 Mar 2024 16:43:15 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jídlo</title>
-      <link>//localhost:1313/categories/j%C3%ADdlo/</link>
-      <pubDate>Mon, 11 Mar 2024 16:43:15 +0100</pubDate>
-      <guid>//localhost:1313/categories/j%C3%ADdlo/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Itálie</title>
       <link>//localhost:1313/categories/it%C3%A1lie/</link>
-      <pubDate>Mon, 11 Mar 2024 14:25:13 +0100</pubDate>
+      <pubDate>Mon, 11 Mar 2024 16:43:15 +0100</pubDate>
       <guid>//localhost:1313/categories/it%C3%A1lie/</guid>
       <description></description>
     </item>

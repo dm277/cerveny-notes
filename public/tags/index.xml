@@ -9,10 +9,10 @@
     <lastBuildDate>Mon, 11 Mar 2024 16:43:15 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Recepty</title>
-      <link>//localhost:1313/tags/recepty/</link>
+      <title>Salát</title>
+      <link>//localhost:1313/tags/sal%C3%A1t/</link>
       <pubDate>Mon, 11 Mar 2024 16:43:15 +0100</pubDate>
-      <guid>//localhost:1313/tags/recepty/</guid>
+      <guid>//localhost:1313/tags/sal%C3%A1t/</guid>
       <description></description>
     </item>
     <item>
@@ -90,6 +90,13 @@
       <link>//localhost:1313/tags/mlet%C3%A9-maso/</link>
       <pubDate>Sat, 10 Jun 2023 21:40:43 +0200</pubDate>
       <guid>//localhost:1313/tags/mlet%C3%A9-maso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recepty</title>
+      <link>//localhost:1313/tags/recepty/</link>
+      <pubDate>Sat, 10 Jun 2023 21:33:44 +0200</pubDate>
+      <guid>//localhost:1313/tags/recepty/</guid>
       <description></description>
     </item>
     <item>

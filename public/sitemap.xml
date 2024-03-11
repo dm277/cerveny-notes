@@ -8,13 +8,13 @@
     <loc>//localhost:1313/categories/</loc>
     <lastmod>2024-03-11T16:43:15+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/j%C3%ADdlo/</loc>
+    <loc>//localhost:1313/categories/it%C3%A1lie/</loc>
     <lastmod>2024-03-11T16:43:15+01:00</lastmod>
   </url><url>
     <loc>//localhost:1313/recepty/</loc>
     <lastmod>2024-03-11T16:43:15+01:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/recepty/</loc>
+    <loc>//localhost:1313/tags/sal%C3%A1t/</loc>
     <lastmod>2024-03-11T16:43:15+01:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/</loc>
@@ -22,9 +22,6 @@
   </url><url>
     <loc>//localhost:1313/</loc>
     <lastmod>2024-03-11T16:43:15+01:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/it%C3%A1lie/</loc>
-    <lastmod>2024-03-11T14:25:13+01:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/pasta/</loc>
     <lastmod>2024-03-11T14:25:13+01:00</lastmod>
@@ -126,6 +123,9 @@
     <lastmod>2023-06-10T21:33:44+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/ostatn%C3%AD/</loc>
+    <lastmod>2023-06-10T21:33:44+02:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/recepty/</loc>
     <lastmod>2023-06-10T21:33:44+02:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/go/</loc>

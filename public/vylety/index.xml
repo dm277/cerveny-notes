@@ -15,5 +15,12 @@
       <guid>//localhost:1313/vylety/zumberk/</guid>
       <description>Začínám sem opatrně dávat naše výlety. Tohle je první, ze dneška. Byl jsem v Kališti montovat obrtlíky a spravovat skener a potom jsme vyrazili na jih.</description>
     </item>
+    <item>
+      <title>Krušlov(Čestice)</title>
+      <link>//localhost:1313/vylety/kruslov/</link>
+      <pubDate>Wed, 08 Nov 2023 22:12:17 +0100</pubDate>
+      <guid>//localhost:1313/vylety/kruslov/</guid>
+      <description>Hledal jsem včelín v Krušlově. Byl na mapě význačně a tady jsme ještě nebyli. Nechali jsem auto na druhé straně kopce a prošli lesem okolo Čertova kamene, který jsme nenašli.</description>
+    </item>
   </channel>
 </rss>

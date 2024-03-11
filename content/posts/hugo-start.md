@@ -1,7 +1,7 @@
 ---
 title: "Hugo Start"
 date: 2023-08-13T21:32:36+02:00
-draft: true
+draft: false
 tags:
   - webpages
 categories:
@@ -25,7 +25,3 @@ hugo server -D
 Add a new page to your site.
 
 ```hugo new posts/my-first-post.md```
-
-
-
-

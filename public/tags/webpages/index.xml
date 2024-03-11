@@ -6,21 +6,21 @@
     <description>Recent content in Webpages on červený notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Sun, 13 Aug 2023 21:32:36 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 07:55:20 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/tags/webpages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jak to tady je</title>
+      <link>//localhost:1313/posts/jak/</link>
+      <pubDate>Mon, 11 Mar 2024 07:55:20 +0100</pubDate>
+      <guid>//localhost:1313/posts/jak/</guid>
+      <description>Do blog budu dávat všechno, co nejsou výlety a recepty. Takže tu bude všechno ostatní, taková všehochuť. Je to proto, že chci vystačit jen se třemi menu nahoře.</description>
+    </item>
     <item>
       <title>Hugo Start</title>
       <link>//localhost:1313/posts/hugo-start/</link>
       <pubDate>Sun, 13 Aug 2023 21:32:36 +0200</pubDate>
       <guid>//localhost:1313/posts/hugo-start/</guid>
       <description>Create a site Run these commands to create a Hugo site with the Ananke theme. The next section provides an explanation of each command.</description>
-    </item>
-    <item>
-      <title>Bear</title>
-      <link>//localhost:1313/posts/bear/</link>
-      <pubDate>Sun, 02 Jul 2023 21:14:38 +0200</pubDate>
-      <guid>//localhost:1313/posts/bear/</guid>
-      <description>Bear je prima Proč je dobrý ho používat, i třeba místo obsidian nebo roam. Na zettelkasten věci.&#xA;mít to na disku markdown (#bear to umožňuje) zachytávací nástroje - Bear má pluginy geniální je v Safari příprava pro blog — markdown </description>
     </item>
   </channel>
 </rss>

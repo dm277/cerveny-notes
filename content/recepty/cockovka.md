@@ -1,9 +1,8 @@
 ---
 title: Čočkovka
 date: 2023-06-11T09:04:16+02:00
-draft: true
+draft: false
 tags:
-  - recepty
   - čočka
   - polévky
 categories:

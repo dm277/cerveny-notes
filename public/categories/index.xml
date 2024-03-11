@@ -6,13 +6,27 @@
     <description>Recent content in Categories on červený notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Sun, 10 Mar 2024 20:32:21 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 07:55:20 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ostatní</title>
+      <link>//localhost:1313/categories/ostatn%C3%AD/</link>
+      <pubDate>Mon, 11 Mar 2024 07:55:20 +0100</pubDate>
+      <guid>//localhost:1313/categories/ostatn%C3%AD/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Výlety</title>
       <link>//localhost:1313/categories/v%C3%BDlety/</link>
       <pubDate>Sun, 10 Mar 2024 20:32:21 +0100</pubDate>
       <guid>//localhost:1313/categories/v%C3%BDlety/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technika</title>
+      <link>//localhost:1313/categories/technika/</link>
+      <pubDate>Sun, 13 Aug 2023 21:32:36 +0200</pubDate>
+      <guid>//localhost:1313/categories/technika/</guid>
       <description></description>
     </item>
     <item>
@@ -32,8 +46,29 @@
     <item>
       <title>Cuketka</title>
       <link>//localhost:1313/categories/cuketka/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 11 Jun 2023 09:49:42 +0200</pubDate>
       <guid>//localhost:1313/categories/cuketka/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Francouzská Kuchyně</title>
+      <link>//localhost:1313/categories/francouzsk%C3%A1-kuchyn%C4%9B/</link>
+      <pubDate>Sun, 11 Jun 2023 09:49:42 +0200</pubDate>
+      <guid>//localhost:1313/categories/francouzsk%C3%A1-kuchyn%C4%9B/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Itálie</title>
+      <link>//localhost:1313/categories/it%C3%A1lie/</link>
+      <pubDate>Tue, 06 Jun 2023 09:07:39 +0200</pubDate>
+      <guid>//localhost:1313/categories/it%C3%A1lie/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Řecká</title>
+      <link>//localhost:1313/categories/%C5%99eck%C3%A1/</link>
+      <pubDate>Mon, 05 Jun 2023 16:01:25 +0200</pubDate>
+      <guid>//localhost:1313/categories/%C5%99eck%C3%A1/</guid>
       <description></description>
     </item>
   </channel>

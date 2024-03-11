@@ -15,5 +15,12 @@
       <guid>//localhost:1313/recepty/kure-na-paprice/</guid>
       <description>4 plátky kuřecích prsou&#xA;45 g mleté sladké papriky&#xA;500 ml mléka&#xA;280 ml smetany ke šlehání&#xA;200 ml vývaru</description>
     </item>
+    <item>
+      <title>Stroganoff</title>
+      <link>//localhost:1313/recepty/beef-dijon-stroganoff/</link>
+      <pubDate>Tue, 06 Jun 2023 09:06:39 +0200</pubDate>
+      <guid>//localhost:1313/recepty/beef-dijon-stroganoff/</guid>
+      <description>olivový olej, 3 lžíce&#xA;3 cibule na polokolečka&#xA;větší balíček kuřecího masa na jemné nudličky&#xA;curry, kečup, dijonská hořčice</description>
+    </item>
   </channel>
 </rss>

@@ -1,9 +1,9 @@
 ---
 title: Čevapčiči
 date: 2023-06-10T21:40:43+02:00
-draft: true
+draft: false
 tags:
-  - recepty
+  - klasika
   - mleté maso
 categories:
   - česká kuchyně

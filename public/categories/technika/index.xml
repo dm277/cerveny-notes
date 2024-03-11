@@ -15,12 +15,5 @@
       <guid>//localhost:1313/posts/hugo-start/</guid>
       <description>Create a site Run these commands to create a Hugo site with the Ananke theme. The next section provides an explanation of each command.</description>
     </item>
-    <item>
-      <title>Bear</title>
-      <link>//localhost:1313/posts/bear/</link>
-      <pubDate>Sun, 02 Jul 2023 21:14:38 +0200</pubDate>
-      <guid>//localhost:1313/posts/bear/</guid>
-      <description>Bear je prima Proč je dobrý ho používat, i třeba místo obsidian nebo roam. Na zettelkasten věci.&#xA;mít to na disku markdown (#bear to umožňuje) zachytávací nástroje - Bear má pluginy geniální je v Safari příprava pro blog — markdown </description>
-    </item>
   </channel>
 </rss>

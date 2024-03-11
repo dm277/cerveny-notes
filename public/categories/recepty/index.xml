@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recepty on červený notes</title>
+    <link>//localhost:1313/categories/recepty/</link>
+    <description>Recent content in Recepty on červený notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Mon, 05 Jun 2023 16:01:25 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/recepty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gyros</title>
+      <link>//localhost:1313/recepty/gyros/</link>
+      <pubDate>Mon, 05 Jun 2023 16:01:25 +0200</pubDate>
+      <guid>//localhost:1313/recepty/gyros/</guid>
+      <description>cuketka link&#xA;placka paulus&#xA;dip 1 svazek zelených bylinek (pažitka, petržel, oregano aj.) Smícháme zakysanou smetanu, majonézu, oloupanou a najemno nastrouhanou okurku hadovku, trochu olivového oleje, prolisovaný česnek, sůl a pepř</description>
+    </item>
+  </channel>
+</rss>

@@ -1,9 +1,9 @@
 ---
 title: Guláš pro Apolenku
 date: 2023-06-05T09:06:39+02:00
-draft: true
+draft: false
 tags:
-  - recepty
+  - klasika
   - hovězí
 categories:
   - česká kuchyně

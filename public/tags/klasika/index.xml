@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Klasika on červený notes</title>
+    <link>//localhost:1313/tags/klasika/</link>
+    <description>Recent content in Klasika on červený notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Sat, 10 Jun 2023 21:40:43 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/klasika/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Čevapčiči</title>
+      <link>//localhost:1313/recepty/cevapcici/</link>
+      <pubDate>Sat, 10 Jun 2023 21:40:43 +0200</pubDate>
+      <guid>//localhost:1313/recepty/cevapcici/</guid>
+      <description>kilo mletého masa&#xA;dvě cibule&#xA;dvě PL papriky&#xA;4 česneky&#xA;sádlo&#xA;mouka&#xA;majoránka&#xA;Maso s cibulí promícháme, osolíme a opepříme a uděláme šištičky, které potom obalíme v mouce a opékáme na sádle.</description>
+    </item>
+    <item>
+      <title>Guláš pro Apolenku</title>
+      <link>//localhost:1313/recepty/gulas-apolenka/</link>
+      <pubDate>Mon, 05 Jun 2023 09:06:39 +0200</pubDate>
+      <guid>//localhost:1313/recepty/gulas-apolenka/</guid>
+      <description>3/4 kila cibule&#xA;kilo hovězího&#xA;4 lžíce sádla, nebo oleje&#xA;5 lžic sladké papriky&#xA;lžička: majoránky, kmínu, tymiánu&#xA;lžíce octa</description>
+    </item>
+  </channel>
+</rss>

@@ -6,8 +6,15 @@
     <description>Recent content in Ostatní on červený notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Sat, 10 Jun 2023 21:33:44 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 07:55:20 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/categories/ostatn%C3%AD/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jak to tady je</title>
+      <link>//localhost:1313/posts/jak/</link>
+      <pubDate>Mon, 11 Mar 2024 07:55:20 +0100</pubDate>
+      <guid>//localhost:1313/posts/jak/</guid>
+      <description>Do blog budu dávat všechno, co nejsou výlety a recepty. Takže tu bude všechno ostatní, taková všehochuť. Je to proto, že chci vystačit jen se třemi menu nahoře.</description>
+    </item>
     <item>
       <title>Burger Mc Country</title>
       <link>//localhost:1313/recepty/burger-mc-country/</link>
@@ -16,18 +23,25 @@
       <description>Burger&#xA;maso&#xA;šalvěj, petržel&#xA;cibule, česnek&#xA;muškátový květ&#xA;pepř a sůl&#xA;Omáčka&#xA;2 lžíce majonézy&#xA;2 lžíce kremžské&#xA;půl lžíce cukru</description>
     </item>
     <item>
-      <title>Stroganoff</title>
-      <link>//localhost:1313/recepty/beef-dijon-stroganoff/</link>
-      <pubDate>Tue, 06 Jun 2023 09:06:39 +0200</pubDate>
-      <guid>//localhost:1313/recepty/beef-dijon-stroganoff/</guid>
-      <description>olivový olej, 3 lžíce&#xA;3 cibule na polokolečka&#xA;větší balíček kuřecího masa na jemné nudličky&#xA;curry, kečup, dijonská hořčice</description>
+      <title>Go 3 - pravidla</title>
+      <link>//localhost:1313/posts/hra-go3/</link>
+      <pubDate>Thu, 08 Jun 2023 18:01:25 +0200</pubDate>
+      <guid>//localhost:1313/posts/hra-go3/</guid>
+      <description></description>
     </item>
     <item>
-      <title>Gyros</title>
-      <link>//localhost:1313/recepty/gyros/</link>
-      <pubDate>Mon, 05 Jun 2023 16:01:25 +0200</pubDate>
-      <guid>//localhost:1313/recepty/gyros/</guid>
-      <description>cuketka link&#xA;placka paulus&#xA;dip 1 svazek zelených bylinek (pažitka, petržel, oregano aj.) Smícháme zakysanou smetanu, majonézu, oloupanou a najemno nastrouhanou okurku hadovku, trochu olivového oleje, prolisovaný česnek, sůl a pepř</description>
+      <title>Go 2 - pravidla</title>
+      <link>//localhost:1313/posts/hra-go2/</link>
+      <pubDate>Thu, 08 Jun 2023 17:01:25 +0200</pubDate>
+      <guid>//localhost:1313/posts/hra-go2/</guid>
+      <description>Zákazy V go existují pouze dva zákazy, kam se nesmí hrát:&#xA;Zákaz sebevraždy V go je zakázáno zahrát tah, kdy by kámen nebo skupina kamenů neměla ani jednu svobodu – tzv.</description>
+    </item>
+    <item>
+      <title>Go, nejstarší, nejjednodušší a nejtěžší hra</title>
+      <link>//localhost:1313/posts/hra-go/</link>
+      <pubDate>Thu, 08 Jun 2023 16:01:25 +0200</pubDate>
+      <guid>//localhost:1313/posts/hra-go/</guid>
+      <description>Pravidla go – Hra GO: Pravidla, informace, kluby Pravidla hry go jsou velmi jednoduchá a zvládnou se je naučit i mále děti.</description>
     </item>
   </channel>
 </rss>

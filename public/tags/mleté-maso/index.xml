@@ -22,5 +22,26 @@
       <guid>//localhost:1313/recepty/burger-mc-country/</guid>
       <description>Burger&#xA;maso&#xA;šalvěj, petržel&#xA;cibule, česnek&#xA;muškátový květ&#xA;pepř a sůl&#xA;Omáčka&#xA;2 lžíce majonézy&#xA;2 lžíce kremžské&#xA;půl lžíce cukru</description>
     </item>
+    <item>
+      <title>Bolognese</title>
+      <link>//localhost:1313/recepty/bolognese/</link>
+      <pubDate>Tue, 06 Jun 2023 09:07:39 +0200</pubDate>
+      <guid>//localhost:1313/recepty/bolognese/</guid>
+      <description>trochu vul, ale recept supr YouTube&#xA;moje Bolognese</description>
+    </item>
+    <item>
+      <title>Boloňská moje</title>
+      <link>//localhost:1313/recepty/bolonska-moje/</link>
+      <pubDate>Tue, 06 Jun 2023 09:07:39 +0200</pubDate>
+      <guid>//localhost:1313/recepty/bolonska-moje/</guid>
+      <description>hovězí maso, 1 kilo&#xA;anglická slanina, 20 dkg&#xA;cibule&#xA;5 plátků česneku&#xA;velká plechovka loupaných rajčat&#xA;červené víno&#xA;velká mrkev a celer</description>
+    </item>
+    <item>
+      <title>Plněný papriky</title>
+      <link>//localhost:1313/recepty/plneny-papriky/</link>
+      <pubDate>Mon, 05 Jun 2023 09:06:39 +0200</pubDate>
+      <guid>//localhost:1313/recepty/plneny-papriky/</guid>
+      <description>500 g mletého masa&#xA;2 ks staršího pečiva&#xA;vejce&#xA;sůl, pepř, sladká paprika, majoránka, bobkový list, nové koření&#xA;6-8 paprik různých barev (červená, žlutá, zelená)</description>
+    </item>
   </channel>
 </rss>

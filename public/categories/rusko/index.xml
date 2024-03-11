@@ -15,5 +15,12 @@
       <guid>//localhost:1313/recepty/beef-stroganoff/</guid>
       <description>1 lb top sirloin steak&#xA;2 Tbsp olive oil&#xA;2 Tbsp butter 1/2 medium onion, finely chopped&#xA;1/2 lb brown mushrooms, thickly sliced</description>
     </item>
+    <item>
+      <title>Stroganoff</title>
+      <link>//localhost:1313/recepty/beef-dijon-stroganoff/</link>
+      <pubDate>Tue, 06 Jun 2023 09:06:39 +0200</pubDate>
+      <guid>//localhost:1313/recepty/beef-dijon-stroganoff/</guid>
+      <description>olivový olej, 3 lžíce&#xA;3 cibule na polokolečka&#xA;větší balíček kuřecího masa na jemné nudličky&#xA;curry, kečup, dijonská hořčice</description>
+    </item>
   </channel>
 </rss>

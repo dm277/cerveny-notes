@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technikaa on červený notes</title>
+    <link>//localhost:1313/categories/technikaa/</link>
+    <description>Recent content in Technikaa on červený notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Sun, 13 Aug 2023 21:32:36 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/categories/technikaa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo Start</title>
+      <link>//localhost:1313/posts/hugo-start/</link>
+      <pubDate>Sun, 13 Aug 2023 21:32:36 +0200</pubDate>
+      <guid>//localhost:1313/posts/hugo-start/</guid>
+      <description>Create a site Run these commands to create a Hugo site with the Ananke theme. The next section provides an explanation of each command.</description>
+    </item>
+  </channel>
+</rss>

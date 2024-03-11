@@ -1,7 +1,7 @@
 ---
 title: Burger Mc Country
 date: 2023-06-10T21:33:44+02:00
-draft: true
+draft: false
 tags:
   - recepty
   - mleté maso

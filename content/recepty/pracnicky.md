@@ -1,12 +1,12 @@
 ---
 title: Griliášové pracničky
 date: 2023-06-07T22:25:10+02:00
-draft: true
+draft: false
 tags:
-  - recepty
+  - sladké
+  - pečení
 categories:
   - česká kuchyně
-  - Sladké
 ---
 
 Formičky na pracny vymažeme máslem. Mandle rozmixujeme najemno.

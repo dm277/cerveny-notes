@@ -1,9 +1,8 @@
 ---
 title: "Cibulačka"
 date: 2023-06-11T09:49:42+02:00
-draft: true
+draft: false
 tags:
-  - recepty
   - polévky
 categories:
   - Francouzská kuchyně

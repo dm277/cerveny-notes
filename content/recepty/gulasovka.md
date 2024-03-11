@@ -1,9 +1,8 @@
 ---
 title: "Gulášovka"
 date: 2023-06-11T09:27:02+02:00
-draft: true
+draft: false
 tags:
-  - recepty
   - hovězí
   - polévky
 categories:

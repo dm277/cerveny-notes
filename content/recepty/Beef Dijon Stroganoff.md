@@ -1,12 +1,11 @@
 ---
 title: Stroganoff
 date: 2023-06-06T09:06:39+02:00
-draft: true
+draft: false
 tags:
-  - recepty
   - kuře
 categories:
-  - ostatní
+  - rusko
 ---
 
 > olivový olej, 3 lžíce  

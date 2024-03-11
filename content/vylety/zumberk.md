@@ -4,6 +4,7 @@ featured_image: images/zumberk/featured.jpeg
 
 date: 2024-03-10T20:32:21+01:00
 draft: false
+show_reading_time: true
 tags:
   - výlety
 categories:
@@ -25,11 +26,9 @@ Pak jsem vyrazili na Žumberk, bylo to kousek a místo zříceniny hradu tam sto
 
 ![Image](/images/zumberk/mapa.png)
 
-Urazili jsme asi deset kilometrů a nakonec jsem se zase vrátili k hrázi rybníka, který je vlastně malá přehrada. 
+Urazili jsme asi deset kilometrů a nakonec jsem se zase vrátili k hrázi rybníka, který je vlastně malá přehrada.
 
 ![Image](/images/zumberk/prehrada.jpeg)
 ![Image](/images/zumberk/konec.jpeg)
 
 Tak to byl dnešní výlet Žumberk, Klažary, Kondrač, Kamenná. Hezkej.
-
-

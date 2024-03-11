@@ -6,8 +6,22 @@
     <description>Recent content in Cuketka on červený notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Thu, 01 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Jun 2023 09:49:42 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/categories/cuketka/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cibulačka</title>
+      <link>//localhost:1313/recepty/cibulacka/</link>
+      <pubDate>Sun, 11 Jun 2023 09:49:42 +0200</pubDate>
+      <guid>//localhost:1313/recepty/cibulacka/</guid>
+      <description>cibule&#xA;máslo&#xA;mouka&#xA;víno&#xA;vývar&#xA;sůl, tymián&#xA;Cibuli uděláme na másle pěkně ho tmava, hnědo červená je ok. Můžeme občas trošinku podlejt vodou, když se to přichytává.</description>
+    </item>
+    <item>
+      <title>Gyros</title>
+      <link>//localhost:1313/recepty/gyros/</link>
+      <pubDate>Mon, 05 Jun 2023 16:01:25 +0200</pubDate>
+      <guid>//localhost:1313/recepty/gyros/</guid>
+      <description>cuketka link&#xA;placka paulus&#xA;dip 1 svazek zelených bylinek (pažitka, petržel, oregano aj.) Smícháme zakysanou smetanu, majonézu, oloupanou a najemno nastrouhanou okurku hadovku, trochu olivového oleje, prolisovaný česnek, sůl a pepř</description>
+    </item>
     <item>
       <title>Bramboračka</title>
       <link>//localhost:1313/recepty/bramboracka/</link>

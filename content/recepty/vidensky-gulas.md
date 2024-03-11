@@ -1,10 +1,9 @@
 ---
 title: Vídeňský guláš
 date: 2023-06-11
-draft: true
+draft: false
 featured_image: images/vidensky-gulas.jpg
 tags:
-  - recepty
   - hovězí
 categories:
   - česká kuchyně

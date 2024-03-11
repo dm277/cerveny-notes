@@ -2,7 +2,8 @@
 title: "Go 3 - pravidla"
 date: 2023-06-08T18:01:25+02:00
 featured_image: '/images/go/headline.jpeg'
-draft: true
+draft: false
+categories: ["ostatní"]
 tags: ["go"]
 ---
 

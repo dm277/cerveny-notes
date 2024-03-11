@@ -1,10 +1,10 @@
 ---
 title: Boloňská moje
 date: 2023-06-06T09:07:39+02:00
-draft: true
+draft: false
 tags:
-  - recepty
   - pasta
+  - mleté maso
 categories:
   - Itálie
 ---

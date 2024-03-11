@@ -3,7 +3,6 @@ title: Bramboračka
 date: 2023-06-01
 draft: false
 tags:
-  - recepty
   - polévky
 categories:
   - česká kuchyně

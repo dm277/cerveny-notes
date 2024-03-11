@@ -1,9 +1,8 @@
 ---
 title: Fazolová polévka
 date: 2023-06-11T09:22:56+02:00
-draft: true
+draft: false
 tags:
-  - recepty
   - fazole
   - polévky
 categories:

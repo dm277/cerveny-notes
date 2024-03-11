@@ -16,6 +16,55 @@
       <description>4 plátky kuřecích prsou&#xA;45 g mleté sladké papriky&#xA;500 ml mléka&#xA;280 ml smetany ke šlehání&#xA;200 ml vývaru</description>
     </item>
     <item>
+      <title>Gulášovka</title>
+      <link>//localhost:1313/recepty/gulasovka/</link>
+      <pubDate>Sun, 11 Jun 2023 09:27:02 +0200</pubDate>
+      <guid>//localhost:1313/recepty/gulasovka/</guid>
+      <description>500 g předního hovězího masa&#xA;100 g sádla&#xA;200 g cibule&#xA;5 stroužků česneku&#xA;1 lžíce kmínu&#xA;3 vrchovaté lžíce sladké papriky</description>
+    </item>
+    <item>
+      <title>Fazolová polévka</title>
+      <link>//localhost:1313/recepty/fazolacka/</link>
+      <pubDate>Sun, 11 Jun 2023 09:22:56 +0200</pubDate>
+      <guid>//localhost:1313/recepty/fazolacka/</guid>
+      <description>fazole&#xA;cibule&#xA;slanina&#xA;Na oleji rozškvařte slaninu, přidejte cibuli, kostičky papriky a za stálého míchání opékejte asi 5 minut dorůžova.</description>
+    </item>
+    <item>
+      <title>Čočkovka</title>
+      <link>//localhost:1313/recepty/cockovka/</link>
+      <pubDate>Sun, 11 Jun 2023 09:04:16 +0200</pubDate>
+      <guid>//localhost:1313/recepty/cockovka/</guid>
+      <description>1,2 l vývaru (nebo vody)&#xA;125 g červené čočky (loupané a půlené)&#xA;1 plechovka sterilovaných sekaných rajčat&#xA;100 g cibule</description>
+    </item>
+    <item>
+      <title>Vídeňský guláš</title>
+      <link>//localhost:1313/recepty/vidensky-gulas/</link>
+      <pubDate>Sun, 11 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/recepty/vidensky-gulas/</guid>
+      <description>Guláš považujeme za národní jídlo, ale je pouze důkazem naší historické příslušnosti k Rakousku-Uhersku. Dušené ragú z hovězího masa s paprikou vzniklo až v 17.</description>
+    </item>
+    <item>
+      <title>Čevapčiči</title>
+      <link>//localhost:1313/recepty/cevapcici/</link>
+      <pubDate>Sat, 10 Jun 2023 21:40:43 +0200</pubDate>
+      <guid>//localhost:1313/recepty/cevapcici/</guid>
+      <description>kilo mletého masa&#xA;dvě cibule&#xA;dvě PL papriky&#xA;4 česneky&#xA;sádlo&#xA;mouka&#xA;majoránka&#xA;Maso s cibulí promícháme, osolíme a opepříme a uděláme šištičky, které potom obalíme v mouce a opékáme na sádle.</description>
+    </item>
+    <item>
+      <title>Griliášové pracničky</title>
+      <link>//localhost:1313/recepty/pracnicky/</link>
+      <pubDate>Wed, 07 Jun 2023 22:25:10 +0200</pubDate>
+      <guid>//localhost:1313/recepty/pracnicky/</guid>
+      <description>Formičky na pracny vymažeme máslem. Mandle rozmixujeme najemno.&#xA;V pánvi rozehřejeme cukr a za stálého míchání ho necháme rozpustit. Jakmile zezlátne a je tekutý, vsypeme k němu mandle a promícháme.</description>
+    </item>
+    <item>
+      <title>Guláš pro Apolenku</title>
+      <link>//localhost:1313/recepty/gulas-apolenka/</link>
+      <pubDate>Mon, 05 Jun 2023 09:06:39 +0200</pubDate>
+      <guid>//localhost:1313/recepty/gulas-apolenka/</guid>
+      <description>3/4 kila cibule&#xA;kilo hovězího&#xA;4 lžíce sádla, nebo oleje&#xA;5 lžic sladké papriky&#xA;lžička: majoránky, kmínu, tymiánu&#xA;lžíce octa</description>
+    </item>
+    <item>
       <title>Plněný papriky</title>
       <link>//localhost:1313/recepty/plneny-papriky/</link>
       <pubDate>Mon, 05 Jun 2023 09:06:39 +0200</pubDate>

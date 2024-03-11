@@ -1,9 +1,9 @@
 ---
 title: Bolognese
 date: 2023-06-06T09:07:39+02:00
-draft: true
+draft: false
 tags:
-  - recepty
+  - mleté maso
   - pasta
 categories:
   - Itálie

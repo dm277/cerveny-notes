@@ -2,7 +2,9 @@
 title: "Go 2 - pravidla"
 date: 2023-06-08T17:01:25+02:00
 featured_image: '/images/go/headline.jpeg'
-draft: true
+show_reading_time: true
+draft: false
+categories: ["ostatní"]
 tags: ["go"]
 ---
 

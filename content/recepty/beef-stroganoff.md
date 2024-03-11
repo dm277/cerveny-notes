@@ -4,7 +4,6 @@ date: 2023-06-13T11:01:45+02:00
 draft: false
 featured_image: images/stroga.png
 tags:
-  - recepty
   - hovězí
 categories:
   - Rusko

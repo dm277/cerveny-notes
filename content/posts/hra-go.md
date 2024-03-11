@@ -1,13 +1,16 @@
 ---
-title: "Go, nejstarší, nejjednodušší a nejtěžší hra"
+title: Go, nejstarší, nejjednodušší a nejtěžší hra
 date: 2023-06-08T16:01:25+02:00
-featured_image: '/images/go/headline.jpeg'
-draft: true
-tags: ["go"]
+featured_image: images/go/headline.jpeg
 show_reading_time: true
+draft: false
+tags:
+  - go
+categories:
+  - ostatní
 ---
 
-# Pravidla go – Hra GO: Pravidla, informace, kluby
+## Pravidla go – Hra GO: Pravidla, informace, kluby
 Pravidla hry go jsou velmi jednoduchá a zvládnou se je naučit i mále děti.
 Hráči střídavě pokládají své kameny na desku, která má tvar čtvercové sítě o 19×19 čarách (pro začátečníky se používají i desky 9×9 a 13×13 aniž by se tím změnila pravidla). S kameny se nehýbe, nanejvýš je možné některé vybrat z desky.
 

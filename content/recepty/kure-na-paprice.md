@@ -3,7 +3,6 @@ title: "Kuře Na Paprice"
 date: 2023-06-11T09:53:03+02:00
 draft: false
 tags:
-  - recepty
   - kuře
 categories:
   - česká kuchyně

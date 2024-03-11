@@ -6,13 +6,27 @@
     <description>Recent content in Tags on červený notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Sun, 10 Mar 2024 20:32:21 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2024 07:55:20 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Webpages</title>
+      <link>//localhost:1313/tags/webpages/</link>
+      <pubDate>Mon, 11 Mar 2024 07:55:20 +0100</pubDate>
+      <guid>//localhost:1313/tags/webpages/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Výlety</title>
       <link>//localhost:1313/tags/v%C3%BDlety/</link>
       <pubDate>Sun, 10 Mar 2024 20:32:21 +0100</pubDate>
       <guid>//localhost:1313/tags/v%C3%BDlety/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Čestice</title>
+      <link>//localhost:1313/tags/%C4%8Destice/</link>
+      <pubDate>Wed, 08 Nov 2023 22:12:17 +0100</pubDate>
+      <guid>//localhost:1313/tags/%C4%8Destice/</guid>
       <description></description>
     </item>
     <item>
@@ -23,13 +37,6 @@
       <description></description>
     </item>
     <item>
-      <title>Recepty</title>
-      <link>//localhost:1313/tags/recepty/</link>
-      <pubDate>Tue, 13 Jun 2023 11:01:45 +0200</pubDate>
-      <guid>//localhost:1313/tags/recepty/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Kuře</title>
       <link>//localhost:1313/tags/ku%C5%99e/</link>
       <pubDate>Sun, 11 Jun 2023 09:53:03 +0200</pubDate>
@@ -37,17 +44,87 @@
       <description></description>
     </item>
     <item>
+      <title>Polévky</title>
+      <link>//localhost:1313/tags/pol%C3%A9vky/</link>
+      <pubDate>Sun, 11 Jun 2023 09:49:42 +0200</pubDate>
+      <guid>//localhost:1313/tags/pol%C3%A9vky/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fazole</title>
+      <link>//localhost:1313/tags/fazole/</link>
+      <pubDate>Sun, 11 Jun 2023 09:22:56 +0200</pubDate>
+      <guid>//localhost:1313/tags/fazole/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Čočka</title>
+      <link>//localhost:1313/tags/%C4%8Do%C4%8Dka/</link>
+      <pubDate>Sun, 11 Jun 2023 09:04:16 +0200</pubDate>
+      <guid>//localhost:1313/tags/%C4%8Do%C4%8Dka/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Klasika</title>
+      <link>//localhost:1313/tags/klasika/</link>
+      <pubDate>Sat, 10 Jun 2023 21:40:43 +0200</pubDate>
+      <guid>//localhost:1313/tags/klasika/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mleté Maso</title>
+      <link>//localhost:1313/tags/mlet%C3%A9-maso/</link>
+      <pubDate>Sat, 10 Jun 2023 21:40:43 +0200</pubDate>
+      <guid>//localhost:1313/tags/mlet%C3%A9-maso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recepty</title>
+      <link>//localhost:1313/tags/recepty/</link>
+      <pubDate>Sat, 10 Jun 2023 21:33:44 +0200</pubDate>
+      <guid>//localhost:1313/tags/recepty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Go</title>
+      <link>//localhost:1313/tags/go/</link>
+      <pubDate>Thu, 08 Jun 2023 18:01:25 +0200</pubDate>
+      <guid>//localhost:1313/tags/go/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pečení</title>
+      <link>//localhost:1313/tags/pe%C4%8Den%C3%AD/</link>
+      <pubDate>Wed, 07 Jun 2023 22:25:10 +0200</pubDate>
+      <guid>//localhost:1313/tags/pe%C4%8Den%C3%AD/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sladké</title>
+      <link>//localhost:1313/tags/sladk%C3%A9/</link>
+      <pubDate>Wed, 07 Jun 2023 22:25:10 +0200</pubDate>
+      <guid>//localhost:1313/tags/sladk%C3%A9/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pasta</title>
+      <link>//localhost:1313/tags/pasta/</link>
+      <pubDate>Tue, 06 Jun 2023 09:07:39 +0200</pubDate>
+      <guid>//localhost:1313/tags/pasta/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vepřové</title>
+      <link>//localhost:1313/tags/vep%C5%99ov%C3%A9/</link>
+      <pubDate>Mon, 05 Jun 2023 16:01:25 +0200</pubDate>
+      <guid>//localhost:1313/tags/vep%C5%99ov%C3%A9/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Papriky</title>
       <link>//localhost:1313/tags/papriky/</link>
       <pubDate>Mon, 05 Jun 2023 09:06:39 +0200</pubDate>
       <guid>//localhost:1313/tags/papriky/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Polévky</title>
-      <link>//localhost:1313/tags/pol%C3%A9vky/</link>
-      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/pol%C3%A9vky/</guid>
       <description></description>
     </item>
   </channel>

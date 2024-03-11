@@ -5,9 +5,9 @@ theme = 'ananke'
 canonifyURLs = true
 DefaultContentLanguage = 'cs'
 SectionPagesMenu = 'main'
-MainSections = ['posts','recepty']
-Paginate = 13
+Paginate = 12
 summaryLength = 20
 [params]
   favicon = 'favicon.ico'
+  MainSections = ['posts','recepty', 'výlety']
   body_classes = 'avenir bg-near-white'

@@ -16,13 +16,6 @@
       <description></description>
     </item>
     <item>
-      <title>Recepty</title>
-      <link>//localhost:1313/tags/recepty/</link>
-      <pubDate>Tue, 12 Mar 2024 14:06:59 +0100</pubDate>
-      <guid>//localhost:1313/tags/recepty/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Pasta</title>
       <link>//localhost:1313/tags/pasta/</link>
       <pubDate>Mon, 11 Mar 2024 14:25:13 +0100</pubDate>
@@ -44,24 +37,10 @@
       <description></description>
     </item>
     <item>
-      <title>Auta</title>
-      <link>//localhost:1313/tags/auta/</link>
-      <pubDate>Sun, 13 Aug 2023 21:39:19 +0200</pubDate>
-      <guid>//localhost:1313/tags/auta/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Webpages</title>
       <link>//localhost:1313/tags/webpages/</link>
       <pubDate>Sun, 13 Aug 2023 21:32:36 +0200</pubDate>
       <guid>//localhost:1313/tags/webpages/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Software</title>
-      <link>//localhost:1313/tags/software/</link>
-      <pubDate>Sun, 02 Jul 2023 21:14:38 +0200</pubDate>
-      <guid>//localhost:1313/tags/software/</guid>
       <description></description>
     </item>
     <item>
@@ -111,6 +90,13 @@
       <link>//localhost:1313/tags/mlet%C3%A9-maso/</link>
       <pubDate>Sat, 10 Jun 2023 21:40:43 +0200</pubDate>
       <guid>//localhost:1313/tags/mlet%C3%A9-maso/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Recepty</title>
+      <link>//localhost:1313/tags/recepty/</link>
+      <pubDate>Sat, 10 Jun 2023 21:33:44 +0200</pubDate>
+      <guid>//localhost:1313/tags/recepty/</guid>
       <description></description>
     </item>
     <item>

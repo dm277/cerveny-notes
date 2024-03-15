@@ -6,36 +6,8 @@
     <description>Recent content in Recepty on čn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Tue, 12 Mar 2024 14:06:59 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 10 Jun 2023 21:33:44 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/tags/recepty/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>tut</title>
-      <link>//localhost:1313/tutsection/</link>
-      <pubDate>Tue, 12 Mar 2024 14:06:59 +0100</pubDate>
-      <guid>//localhost:1313/tutsection/</guid>
-      <description>landing page for tutSection</description>
-    </item>
-    <item>
-      <title>file in moreFolder</title>
-      <link>//localhost:1313/tutsection/morefolder/c/</link>
-      <pubDate>Tue, 12 Mar 2024 13:59:06 +0100</pubDate>
-      <guid>//localhost:1313/tutsection/morefolder/c/</guid>
-      <description>možná nějaký prima recept</description>
-    </item>
-    <item>
-      <title>sobour dva</title>
-      <link>//localhost:1313/tutsection/b/</link>
-      <pubDate>Tue, 12 Mar 2024 13:58:52 +0100</pubDate>
-      <guid>//localhost:1313/tutsection/b/</guid>
-      <description>file B</description>
-    </item>
-    <item>
-      <title>soubor jedna</title>
-      <link>//localhost:1313/tutsection/a/</link>
-      <pubDate>Tue, 12 Mar 2024 13:58:41 +0100</pubDate>
-      <guid>//localhost:1313/tutsection/a/</guid>
-      <description>file A</description>
-    </item>
     <item>
       <title>Burger Mc Country</title>
       <link>//localhost:1313/recepty/burger-mc-country/</link>

@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Technika on červený notes</title>
+    <title>Technika on čn</title>
     <link>//localhost:1313/categories/technika/</link>
-    <description>Recent content in Technika on červený notes</description>
+    <description>Recent content in Technika on čn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Sun, 13 Aug 2023 21:32:36 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 13 Aug 2023 21:39:19 +0200</lastBuildDate>
     <atom:link href="//localhost:1313/categories/technika/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Macan</title>
+      <link>//localhost:1313/posts/macan/</link>
+      <pubDate>Sun, 13 Aug 2023 21:39:19 +0200</pubDate>
+      <guid>//localhost:1313/posts/macan/</guid>
+      <description>Test Porsche Macan Spotřeba Při našem testování jsme autu naměřili 9,3 litru na 100 km. Ale nebáli jsme se občas pořádně šlápnout na plyn a sem tam zvolit sportovní režim.</description>
+    </item>
     <item>
       <title>Hugo Start</title>
       <link>//localhost:1313/posts/hugo-start/</link>
@@ -21,6 +28,20 @@
       <pubDate>Tue, 04 Jul 2023 20:11:27 +0200</pubDate>
       <guid>//localhost:1313/posts/ananke-theme/</guid>
       <description>Ananke, A theme for Hugo, a framework for building websites. The intent of this theme is to provide a solid starting place for Hugo sites with basic features and include best practices for performance, accessibility, and rapid development.</description>
+    </item>
+    <item>
+      <title>Bear</title>
+      <link>//localhost:1313/posts/bear/</link>
+      <pubDate>Sun, 02 Jul 2023 21:14:38 +0200</pubDate>
+      <guid>//localhost:1313/posts/bear/</guid>
+      <description>Bear je prima Proč je dobrý ho používat, i třeba místo obsidian nebo roam. Na zettelkasten věci.&#xA;mít to na disku markdown (#bear to umožňuje) zachytávací nástroje - Bear má pluginy geniální je v Safari příprava pro blog — markdown </description>
+    </item>
+    <item>
+      <title>Panamera</title>
+      <link>//localhost:1313/posts/panamera/</link>
+      <pubDate>Tue, 13 Jun 2023 11:11:22 +0200</pubDate>
+      <guid>//localhost:1313/posts/panamera/</guid>
+      <description>Porsche Panamera Porsche Panamera je osobní automobil vyšší třídy německé automobilky Porsche s motorem vpředu a pohonem zadních kol. Vůz se vyrábí od června 2009, představen veřejnosti byl v březnu 2009 na autosalonu v Ženevě.</description>
     </item>
   </channel>
 </rss>

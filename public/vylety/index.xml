@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>výlety on červený notes</title>
+    <title>výlety on čn</title>
     <link>//localhost:1313/vylety/</link>
-    <description>Recent content in výlety on červený notes</description>
+    <description>Recent content in výlety on čn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Mon, 11 Mar 2024 20:18:33 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2024 20:32:21 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/vylety/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Němčice</title>
-      <link>//localhost:1313/vylety/nemcice/</link>
-      <pubDate>Mon, 11 Mar 2024 20:18:33 +0100</pubDate>
-      <guid>//localhost:1313/vylety/nemcice/</guid>
-      <description>Jeli jsme do vesnice Střídka, kousek od Čestic. Je maličká a docela hnusná, sevřená silnice mezi kopcema. Zastavil jsem hned za ní, u velký louky do kopce kterou jsme vylezli.</description>
-    </item>
     <item>
       <title>Žumberk</title>
       <link>//localhost:1313/vylety/zumberk/</link>
       <pubDate>Sun, 10 Mar 2024 20:32:21 +0100</pubDate>
       <guid>//localhost:1313/vylety/zumberk/</guid>
       <description>Začínám sem opatrně dávat naše výlety. Je to pořádná práce.&#xA;Tohle je první, ze dneška. Byl jsem v Kališti montovat obrtlíky a spravovat skener a potom jsme vyrazili na jih.</description>
+    </item>
+    <item>
+      <title>Němčice</title>
+      <link>//localhost:1313/vylety/nemcice/</link>
+      <pubDate>Sun, 28 Jan 2024 20:18:33 +0100</pubDate>
+      <guid>//localhost:1313/vylety/nemcice/</guid>
+      <description>Jeli jsme do vesnice Střídka, kousek od Čestic. Je maličká a docela hnusná, sevřená silnice mezi kopcema. Zastavil jsem hned za ní, u velký louky do kopce, kterou jsme vylezli.</description>
     </item>
     <item>
       <title>Krušlov (Čestice)</title>

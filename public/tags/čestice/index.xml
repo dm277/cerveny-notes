@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Čestice on červený notes</title>
+    <title>Čestice on čn</title>
     <link>//localhost:1313/tags/%C4%8Destice/</link>
-    <description>Recent content in Čestice on červený notes</description>
+    <description>Recent content in Čestice on čn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
-    <lastBuildDate>Wed, 08 Nov 2023 22:12:17 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jan 2024 20:18:33 +0100</lastBuildDate>
     <atom:link href="//localhost:1313/tags/%C4%8Destice/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Krušlov(Čestice)</title>
+      <title>Němčice</title>
+      <link>//localhost:1313/vylety/nemcice/</link>
+      <pubDate>Sun, 28 Jan 2024 20:18:33 +0100</pubDate>
+      <guid>//localhost:1313/vylety/nemcice/</guid>
+      <description>Jeli jsme do vesnice Střídka, kousek od Čestic. Je maličká a docela hnusná, sevřená silnice mezi kopcema. Zastavil jsem hned za ní, u velký louky do kopce, kterou jsme vylezli.</description>
+    </item>
+    <item>
+      <title>Krušlov (Čestice)</title>
       <link>//localhost:1313/vylety/kruslov/</link>
       <pubDate>Wed, 08 Nov 2023 22:12:17 +0100</pubDate>
       <guid>//localhost:1313/vylety/kruslov/</guid>

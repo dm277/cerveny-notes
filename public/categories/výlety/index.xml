@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Výlety on červený notes</title>
+    <title>Výlety on čn</title>
     <link>//localhost:1313/categories/v%C3%BDlety/</link>
-    <description>Recent content in Výlety on červený notes</description>
+    <description>Recent content in Výlety on čn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>cs-cz</language>
     <lastBuildDate>Sun, 10 Mar 2024 20:32:21 +0100</lastBuildDate>
@@ -13,10 +13,17 @@
       <link>//localhost:1313/vylety/zumberk/</link>
       <pubDate>Sun, 10 Mar 2024 20:32:21 +0100</pubDate>
       <guid>//localhost:1313/vylety/zumberk/</guid>
-      <description>Začínám sem opatrně dávat naše výlety.&#xA;Tohle je první, ze dneška. Byl jsem v Kališti montovat obrtlíky a spravovat skener a potom jsme vyrazili na jih.</description>
+      <description>Začínám sem opatrně dávat naše výlety. Je to pořádná práce.&#xA;Tohle je první, ze dneška. Byl jsem v Kališti montovat obrtlíky a spravovat skener a potom jsme vyrazili na jih.</description>
     </item>
     <item>
-      <title>Krušlov(Čestice)</title>
+      <title>Němčice</title>
+      <link>//localhost:1313/vylety/nemcice/</link>
+      <pubDate>Sun, 28 Jan 2024 20:18:33 +0100</pubDate>
+      <guid>//localhost:1313/vylety/nemcice/</guid>
+      <description>Jeli jsme do vesnice Střídka, kousek od Čestic. Je maličká a docela hnusná, sevřená silnice mezi kopcema. Zastavil jsem hned za ní, u velký louky do kopce, kterou jsme vylezli.</description>
+    </item>
+    <item>
+      <title>Krušlov (Čestice)</title>
       <link>//localhost:1313/vylety/kruslov/</link>
       <pubDate>Wed, 08 Nov 2023 22:12:17 +0100</pubDate>
       <guid>//localhost:1313/vylety/kruslov/</guid>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deník on čn</title>
+    <link>//localhost:1313/denik/</link>
+    <description>Recent content in deník on čn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Fri, 15 Mar 2024 13:45:32 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/denik/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024 03 15</title>
+      <link>//localhost:1313/denik/2024-03-15/</link>
+      <pubDate>Fri, 15 Mar 2024 13:45:32 +0100</pubDate>
+      <guid>//localhost:1313/denik/2024-03-15/</guid>
+      <description>Budeme s Hynkem zakládat druhou velkou hromadu hlíny. Musím udělat pár fotek a dám to do blogu.&#xA;Udělali jsme si k snídani párky a jdeme na to.</description>
+    </item>
+  </channel>
+</rss>

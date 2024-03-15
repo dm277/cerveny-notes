@@ -1,12 +1,16 @@
 baseURL = '/'
 languageCode = 'cs-cz'
-title = 'červený notes'
+title = 'čn'
 theme = 'ananke'
 canonifyURLs = true
 DefaultContentLanguage = 'cs'
 SectionPagesMenu = 'main'
 Paginate = 12
 summaryLength = 20
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+  quality = 'qualities'
 [params]
   favicon = 'favicon.ico'
   MainSections = ['posts','recepty', 'výlety']

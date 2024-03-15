@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jižní Čechy on červený notes</title>
+    <link>//localhost:1313/tags/ji%C5%BEn%C3%AD-%C4%8Dechy/</link>
+    <description>Recent content in Jižní Čechy on červený notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cs-cz</language>
+    <lastBuildDate>Tue, 12 Mar 2024 14:34:44 +0100</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/ji%C5%BEn%C3%AD-%C4%8Dechy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hosin</title>
+      <link>//localhost:1313/vylety/hosin/</link>
+      <pubDate>Tue, 12 Mar 2024 14:34:44 +0100</pubDate>
+      <guid>//localhost:1313/vylety/hosin/</guid>
+      <description>tam jsme šli úvozem&#xA;An elephant at sunset </description>
+    </item>
+  </channel>
+</rss>
